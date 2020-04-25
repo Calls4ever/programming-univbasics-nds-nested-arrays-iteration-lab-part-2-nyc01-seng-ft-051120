@@ -17,5 +17,5 @@ min_array[min_array_index]=min
 row +=1
 min_array_index +=1
 end
-p min_array
+min_array
 end
